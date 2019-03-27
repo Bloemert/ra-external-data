@@ -1,6 +1,6 @@
 {
   "name": "ra-external-data",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "External data component for React Admin",
   "main": "src/index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "url": "https://github.com/Bloemert/ra-external-data/issues"
   },
   "dependencies": {
-    "react-admin": "^2.6.2"
+    "react-admin": ">=2.6.2"
   },
   "homepage": "https://github.com/Bloemert/ra-external-data#readme"
 }
